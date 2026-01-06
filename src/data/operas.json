@@ -1,0 +1,170 @@
+{
+  "operas": [
+    {
+      "id": "suliu_niang",
+      "title": "苏六娘",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "经典潮剧，讲述苏六娘与裴舜卿的爱情故事",
+      "duration": "02:45:30",
+      "tags": ["姚璇秋", "经典", "爱情"],
+      "performer": "姚璇秋",
+      "year": "1958"
+    },
+    {
+      "id": "chensan_wuniang",
+      "title": "陈三五娘",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "潮汕民间传说，陈三与五娘的爱情故事",
+      "duration": "03:12:45",
+      "tags": ["经典", "民间传说"],
+      "performer": "姚璇秋",
+      "year": "1961"
+    },
+    {
+      "id": "lijingji",
+      "title": "荔镜记",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "改编自陈三五娘故事，经典潮剧剧目",
+      "duration": "02:58:20",
+      "tags": ["经典", "改编"],
+      "performer": "姚璇秋",
+      "year": "1959"
+    },
+    {
+      "id": "gaoqinfu",
+      "title": "告亲夫",
+      "category": "经典苦情",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "苦情戏代表作，讲述孝道与亲情的故事",
+      "duration": "02:33:15",
+      "tags": ["苦情", "孝道"],
+      "performer": "姚璇秋",
+      "year": "1960"
+    },
+    {
+      "id": "jinhua_nyu",
+      "title": "金花女",
+      "category": "经典苦情",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "经典苦情戏，金花女的悲惨遭遇",
+      "duration": "02:28:40",
+      "tags": ["苦情", "悲剧"],
+      "performer": "姚璇秋",
+      "year": "1962"
+    },
+    {
+      "id": "danao_fengge",
+      "title": "大闹凤阁",
+      "category": "热闹武戏",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "武戏经典，动作场面精彩",
+      "duration": "02:15:55",
+      "tags": ["武戏", "动作"],
+      "performer": "未知",
+      "year": "1963"
+    },
+    {
+      "id": "yangnainai",
+      "title": "杨乃武与小白菜",
+      "category": "经典苦情",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "清末冤案改编，伸冤昭雪的故事",
+      "duration": "03:05:30",
+      "tags": ["冤案", "伸冤"],
+      "performer": "姚璇秋",
+      "year": "1964"
+    },
+    {
+      "id": "wangjiangting",
+      "title": "望江亭",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "才子佳人故事，望江亭中秋赏月",
+      "duration": "02:42:10",
+      "tags": ["中秋", "赏月"],
+      "performer": "姚璇秋",
+      "year": "1965"
+    },
+    {
+      "id": "chunxiangzhuan",
+      "title": "春香传",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "朝鲜民间故事改编，春香与李梦龙的爱情",
+      "duration": "02:38:25",
+      "tags": ["朝鲜", "爱情"],
+      "performer": "姚璇秋",
+      "year": "1966"
+    },
+    {
+      "id": "hongloumeng",
+      "title": "红楼梦",
+      "category": "才子佳人",
+      "subcategory": "看大戏",
+      "bvid": "BV1Zs411t7dL",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "古典名著改编，贾宝玉与林黛玉的爱情故事",
+      "duration": "03:20:15",
+      "tags": ["名著", "爱情"],
+      "performer": "姚璇秋",
+      "year": "1967"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "全部",
+      "icon": "🎭"
+    },
+    {
+      "id": "caizi_jiaren",
+      "name": "才子佳人",
+      "icon": "💕"
+    },
+    {
+      "id": "kuqing",
+      "name": "经典苦情",
+      "icon": "😢"
+    },
+    {
+      "id": "wuxi",
+      "name": "热闹武戏",
+      "icon": "⚔️"
+    }
+  ],
+  "featured": [
+    {
+      "id": "suliu_niang",
+      "reason": "姚璇秋经典代表作"
+    },
+    {
+      "id": "chensan_wuniang",
+      "reason": "潮汕民间传说"
+    },
+    {
+      "id": "gaoqinfu",
+      "reason": "苦情戏经典"
+    }
+  ]
+}
