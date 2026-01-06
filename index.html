@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>妈妈的潮剧大剧院</title>
+    <style>
+        :root {
+            --primary-red: #b22222; /* 戏曲正红色 */
+            --gold: #ffd700;
+            --bg-black: #1a1a1a;
+        }
+
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            background-color: var(--bg-black);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* 顶部大标题 */
+        header {
+            background-color: var(--primary-red);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px solid var(--gold);
+        }
+
+        h1 { margin: 0; font-size: 2.5rem; letter-spacing: 4px; }
+
+        /* 分类大按钮 */
+        .nav-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            padding: 20px;
+        }
+
+        .nav-card {
+            background: #333;
+            border: 2px solid #555;
+            border-radius: 15px;
+            padding: 30px 10px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .nav-card:active {
+            background: var(--primary-red);
+            transform: scale(0.95);
+        }
+
+        /* 视频展示区 */
+        .video-section {
+            padding: 20px;
+        }
+
+        .section-title {
+            border-left: 8px solid var(--gold);
+            padding-left: 15px;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+
+        .video-placeholder {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            background: #000;
+            border: 2px solid var(--gold);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        /* 底部控制栏 */
+        .footer-bar {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background: rgba(0,0,0,0.9);
+            display: flex;
+            justify-content: space-around;
+            padding: 15px 0;
+            border-top: 2px solid var(--gold);
+        }
+
+        .footer-btn {
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 1.2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .icon { font-size: 1.8rem; margin-bottom: 5px; }
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🎭 潮剧大剧院</h1>
+    <p style="color: #ffcccc; margin-top: 5px;">想看什么，点下面就好</p>
+</header>
+
+<div class="nav-container">
+    <div class="nav-card" style="border-color: #ff4d4d;">❤️ 喜庆团圆戏</div>
+    <div class="nav-card" style="border-color: #4da6ff;">蓝色经典(苦情)</div>
+    <div class="nav-card" style="border-color: #ffd700;">🌟 名家名段</div>
+    <div class="nav-card" style="border-color: #52c41a;">📻 纯听戏(广播)</div>
